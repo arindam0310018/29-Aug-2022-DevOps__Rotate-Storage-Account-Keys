@@ -4,6 +4,13 @@ Greetings to my fellow Technology Advocates and Specialists.
 
 In this Session, I will demonstrate __How to Rotate Storage Account Keys (Primary & Secondary) and Store it in Key Vault Using Azure DevOps.__
 
+| __LIVE RECORDED SESSION:-__ |
+| --------- |
+| __LIVE DEMO__ was Recorded as part of my Presentation in __JOURNEY TO THE CLOUD 9.0__ Forum/Platform |
+| Duration of My Demo = __55 Mins 42 Secs__ |
+
+| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/EGIOzEpOxzE/0.jpg)](https://www.youtube.com/watch?v=EGIOzEpOxzE) |
+| --------- |
 
 | __THIS IS HOW IT LOOKS:-__ |
 | --------- |
