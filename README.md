@@ -12,8 +12,7 @@ In this Session, I will demonstrate __How to Rotate Storage Account Keys (Primar
 
 | __THIS IS HOW IT LOOKS:-__ |
 | --------- |
-| 
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qmxxkmphb6ry6dxtgg1a.JPG) |
+| ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qmxxkmphb6ry6dxtgg1a.JPG) |
 
 
 | __AUTOMATION OBJECTIVE:-__ |
